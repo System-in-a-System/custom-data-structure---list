@@ -27,6 +27,6 @@ public interface IntList extends Iterable<Integer> {
 	/* Finds position of integer n, otherwise returns -1 */
 	public int indexOf(int n);
 	
-	/* Returnds String of format "[ 7 56 -45 68 ... ]" */
+	/* Returns String of format "[ 7 56 -45 68 ... ]" */
 	public String toString();
 }
